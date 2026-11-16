@@ -16,8 +16,8 @@ Linux enthusiast, systems tinkerer, and automation builder focusing on desktop p
 
 | Repository | Focus | Tech Stack |
 | :--- | :--- | :--- |
-| **[Linux](https://github.com/capt-howdy/Linux)** | Kubuntu / KDE system updater featuring live progress cards, log streaming, and system telemetry | `Python` `PyQt6` `Bash` |
-| **[GAS](https://github.com/capt-howdy/GAS)** | Centralized multi-project Google Apps Script automation repository | `JavaScript` `Apps Script` `clasp` |
+| **[plasma-update-tool](https://github.com/capt-howdy/plasma-update-tool)** | Kubuntu / KDE Plasma system updater featuring live progress cards, log streaming, and system telemetry | `Python` `PyQt6` `Bash` |
+| **[google-appscript](https://github.com/capt-howdy/google-appscript)** | Centralized multi-project Google Apps Script automation repository | `JavaScript` `Apps Script` `clasp` |
 | **[giorgios](https://github.com/capt-howdy/giorgios)** | Cash drawer reconciliation web app ([Live Demo](https://capt-howdy.github.io/giorgios/)) | `HTML5` `CSS3` `JavaScript` |
 | **[Giorgios-Family-Kitchen](https://github.com/Giorgios-Family-Kitchen)** | Organization housing cashier and Back-of-House kitchen operations tools | `Apps Script` `Web` |
 
@@ -25,4 +25,4 @@ Linux enthusiast, systems tinkerer, and automation builder focusing on desktop p
 
 ### 💻 Technologies & Tools
 
-`Linux (Kubuntu / KDE)` • `Bash` • `Python` • `PyQt6` • `Google Apps Script` • `JavaScript` • `HTML5 / CSS3` • `Git & GitHub CLI`
+`Linux (Kubuntu / KDE Plasma)` • `Bash` • `Python` • `PyQt6` • `Google Apps Script` • `JavaScript` • `HTML5 / CSS3` • `Git & GitHub CLI`
